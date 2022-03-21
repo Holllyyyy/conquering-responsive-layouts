@@ -1,4 +1,4 @@
-# Conquering Responsive Layouts course of Kevin Powell
+# Conquering Responsive Layouts course by Kevin Powell
 
 
 ## Table of contents
