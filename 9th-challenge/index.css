@@ -1,0 +1,93 @@
+*, *::after, *::before{
+ box-sizing: border-box;
+} 
+
+/* mobile first*/
+
+body{
+    margin: 0;
+    color:  #222c2a;
+    line-height: 1,5;
+    font-size: 1,131rem;
+    font-family: 'Roboto', sans-serif; 
+}
+
+img{
+    max-width: 100%; /* picture with this is responsive, no problems with pixels*/
+}
+h1,h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 900;
+    margin-top:0;
+    line-height: 1,2;/* this we are using for height for paragraphs*/
+}
+p{
+    font-size: 1,375rem;
+}
+
+section{
+    padding: 4em 0 ;
+}
+
+.container{
+    width:85%;
+    margin: auto;
+    max-width:1128px; /* this is container inside each section. so we are giving it 85% of with with margin auto  n max-width of 1128px so it has some spaces on side*/
+}
+.section-title{
+font-size:2,25rem;
+color:#f3eed9;
+}
+.section-title--darker, .intro__title{
+color:#824936;
+}
+.intro{
+    background-color: #f3eed9;
+    min-height: 660px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} /* this was the easiest way to center heading 1, and we have min height of 660 px*/
+.intro__text{
+    text-transform: uppercase;
+    letter-spacing: 8px;
+    font-size: 1,125rem;
+    color: #222c2a;
+    margin-left:0,5em;
+    margin-right:0,5em;
+}
+.intro__title{
+    font-size: 3rem;
+}
+
+.section-three{
+    background-color: #222c2a;
+    color:#fff;
+
+}
+.section-four{
+    background-color: #824936;
+    color:#fff;
+}
+
+
+/* for desktop*/
+@media (min-width:800px){
+
+.row{
+    display: flex; /*with display flex, i have rows on each section*/
+}
+.col{
+    width:100%; /* This giving space between my two rows*/
+}
+.col + .col{
+    margin-left:  5em; /* will make my two rows to have space of 5em*/
+}
+.intro__title{
+    font-size: 3,75rem;
+    font-weight: 900;
+}
+.section-title--darker{
+ text-align: center;
+}}
