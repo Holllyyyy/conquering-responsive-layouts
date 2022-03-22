@@ -17,6 +17,7 @@ This is the course of Kevin Powell what I've finished.  Course is based on lesso
 ### Links
 
 - This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This is link to my certificate: [https://courses.kevinpowell.co/certificates/cert_3JGzFnoV](https://courses.kevinpowell.co/certificates/cert_3JGzFnoV)
 
 ### Built with
 
