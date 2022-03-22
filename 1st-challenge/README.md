@@ -15,10 +15,12 @@ In this challenge I had to :
 
 - Limit the total width of the .intro-content to about half of it's parent
 - Stop the text from overflowing out the bottom at small screen widths
+![Screenshot 2022-03-22 150833](https://user-images.githubusercontent.com/92860927/159500599-791654ea-aba5-4d29-bd94-280a59c235ba.png)
 
 ### Links
 
 - This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution: [https://effervescent-ganache-c1b53c.netlify.app/](https://effervescent-ganache-c1b53c.netlify.app/)
 
 ### Built with
 
