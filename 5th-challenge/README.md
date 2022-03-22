@@ -17,9 +17,18 @@ In this challenge I had to :
 - and in the next part to make text to be left and aside element right
 
 
+
+![ss-7](https://user-images.githubusercontent.com/92860927/159505474-53406323-23a7-44cb-9e5b-61095e634927.png)
+
+
+![ss-8](https://user-images.githubusercontent.com/92860927/159505482-7c4b427a-8e00-4ad5-b658-80b7542985c9.png)
+
+
+
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://melodic-mousse-c97900.netlify.app/](https://melodic-mousse-c97900.netlify.app/)
 
 ## My process
 This is how i started and what Ive done so far.
