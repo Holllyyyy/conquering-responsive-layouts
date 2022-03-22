@@ -20,7 +20,8 @@ In this challenge I had to :
 
 
 ![ss-5](https://user-images.githubusercontent.com/92860927/159504311-89bc187a-321e-444b-8273-11e248110298.png)
-![ss-4](https://user-images.githubusercontent.com/92860927/159504352-74abedbe-9995-4410-94e5-da3fd79e4397.png)
+![ss-6](https://user-images.githubusercontent.com/92860927/159504709-c01134dd-a258-4525-b22d-00246071bd27.png)
+
 
 
 
