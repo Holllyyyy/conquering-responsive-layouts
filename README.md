@@ -1,4 +1,4 @@
-# Conquering Responsive Layouts course of Kevin Powell
+# Conquering Responsive Layouts course by Kevin Powell
 
 
 ## Table of contents
@@ -16,7 +16,7 @@ This is the course of Kevin Powell what I've finished.  Course is based on lesso
 
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
 
 ### Built with
 
