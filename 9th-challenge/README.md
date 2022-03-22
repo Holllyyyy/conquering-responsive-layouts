@@ -18,9 +18,15 @@ In this challenge I had to :
 - paragraphs beside each other with heading centered
 - first section with centered heading and paragraph
 
-### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+![ss-14](https://user-images.githubusercontent.com/92860927/159508612-150b0474-ebbc-49f0-b51f-7b9d5631dbd7.png)
+![ss-16](https://user-images.githubusercontent.com/92860927/159508618-69dba5e3-a300-4831-80f3-6d56f0436438.png)
+
+
+
+### Links
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://spiffy-manatee-4d8d34.netlify.app/](https://spiffy-manatee-4d8d34.netlify.app/)
 
 ## My process
 
