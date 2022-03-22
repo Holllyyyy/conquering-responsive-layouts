@@ -19,9 +19,13 @@ In this challenge I had to :
 - Button
 - And few colors
 
+![ss-3](https://user-images.githubusercontent.com/92860927/159502863-ca562f8a-80db-46b3-8104-cc8cb30d326a.png)
+
+
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://effulgent-rolypoly-1c51e1.netlify.app/](https://effulgent-rolypoly-1c51e1.netlify.app/)
 
 ### Built with
 
