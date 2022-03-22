@@ -12,11 +12,11 @@
 
 ## Overview
 
-This is the course of Kevin Powell what I've finished.  Course is based on lessons and challenges.  Main focus is how to write HTML5 and CSS3 , using Flexbox, using BEM, and how to make it responsive for small,medium and large devices. Also there is use of Media Queries as well as how to make nav bar responsive. Here I post about every challenge I did, and explain how I did it.
+This is the course of Kevin Powell what I've finished.  Course is based on lessons and challenges.  Main focus is how to write HTML5 and CSS3 , using Flexbox, using BEM, and how to make it responsive for small,medium and large devices. Also there is use of Media Queries as well as how to make nav bar responsive. Here I post every challenge I did, and explained how I did it.
 
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
 
 ### Built with
 
@@ -27,7 +27,7 @@ This is the course of Kevin Powell what I've finished.  Course is based on lesso
 
 ### What I learned
 
-While working on this course and challenges I learned more about flexbox  and how to use it with more confidence. And I learned how much is important to make it all responsive. That's making website prettier, professional and easier for use. During this course   I started to use BEM, and in the last challenge I made reset for it. 
+While working on this course and challenges I learned more about flexbox  and how to use it with more confidence. And I learned how much is important to make it all responsive. That's making website prettier, professional and easier for use. During this course I started to use BEM, and in the last challenge I made reset for it. 
 
 
 ## Author
