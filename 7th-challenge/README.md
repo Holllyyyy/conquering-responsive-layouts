@@ -15,9 +15,13 @@ In this challenge I had to :
 
 - make navigation menu to have logo on the left side, on mid to be three navigation links and on the right side two.
 
+![ss-10](https://user-images.githubusercontent.com/92860927/159506573-9a517632-89c5-4bec-8bf4-75f872338533.png)
+
+
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://rainbow-pavlova-8bf764.netlify.app/](https://rainbow-pavlova-8bf764.netlify.app/)
 
 ## My process
 
