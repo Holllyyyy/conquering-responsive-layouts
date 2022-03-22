@@ -15,6 +15,8 @@ In this challenge I had to :
 
 - Limit the total width of the .intro-content to about half of it's parent
 - Stop the text from overflowing out the bottom at small screen widths
+
+
 ![Screenshot 2022-03-22 150833](https://user-images.githubusercontent.com/92860927/159500599-791654ea-aba5-4d29-bd94-280a59c235ba.png)
 
 ### Links
