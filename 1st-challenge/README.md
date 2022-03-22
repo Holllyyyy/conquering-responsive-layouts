@@ -21,7 +21,7 @@ In this challenge I had to :
 
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
 - My solution: [https://effervescent-ganache-c1b53c.netlify.app/](https://effervescent-ganache-c1b53c.netlify.app/)
 
 ### Built with
