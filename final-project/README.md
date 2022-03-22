@@ -22,6 +22,8 @@ In this challenge I had to :
 ### Links
 
 - This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution github : [https://github.com/Holllyyyy/responsive-layouts-final-challenge](https://github.com/Holllyyyy/responsive-layouts-final-challenge)
+- My solution live site: [https://timely-concha-d7c428.netlify.app/](https://timely-concha-d7c428.netlify.app/)
 
 ## My process
 
