@@ -17,6 +17,10 @@ In this challenge I had to :
 
 - Limit the maximum width of the text in the bottom area.
 
+![ss-2](https://user-images.githubusercontent.com/92860927/159501802-93ad1ba4-cf2e-4fb7-afb1-03f90ee2f947.png)
+
+
+
 ### Links
 
 - This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
