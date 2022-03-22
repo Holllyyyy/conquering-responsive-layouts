@@ -18,9 +18,15 @@ In this challenge I had to :
 - The section at the bottom should have a dark background color and a different color of text
 - It's removed the "gap" that he created, so I'll have to add it back in
 
-### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+![ss-5](https://user-images.githubusercontent.com/92860927/159504311-89bc187a-321e-444b-8273-11e248110298.png)
+![ss-4](https://user-images.githubusercontent.com/92860927/159504352-74abedbe-9995-4410-94e5-da3fd79e4397.png)
+
+
+
+### Links
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://incomparable-trifle-2f1c3c.netlify.app/](https://incomparable-trifle-2f1c3c.netlify.app/)
 
 ### Built with
 
