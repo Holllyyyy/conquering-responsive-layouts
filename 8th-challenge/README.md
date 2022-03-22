@@ -16,9 +16,17 @@ In this challenge I had to :
 - Make the navigation layout work on both mobile and large screens.
 - Mobile-first, so mobile styles first, then add the large screen styles inside the existing media query
 
+
+![ss-10](https://user-images.githubusercontent.com/92860927/159507577-e963da35-3c0b-40b8-8a90-d61d165e5d0b.png)
+![ss-11](https://user-images.githubusercontent.com/92860927/159507583-575a7b34-54b9-4e77-8a3f-abe6ff8a550c.png)
+![ss-12](https://user-images.githubusercontent.com/92860927/159507590-54ad474a-16f1-4473-803e-a0817ccba62e.png)
+
+
+
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://kaleidoscopic-brioche-bd59f6.netlify.app/](https://kaleidoscopic-brioche-bd59f6.netlify.app/)
 
 ## My process
 
