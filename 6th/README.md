@@ -16,9 +16,14 @@ In this challenge I had to :
 - Get all the navigation items next to one another
 - Add a space between all the items
 
+![ss-9](https://user-images.githubusercontent.com/92860927/159506028-30cd3eff-5a71-4547-bd40-07ffa09f3267.png)
+
+
+
 ### Links
 
-- This course you can find: [on this webiste](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- This course you can find: [https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts/)
+- My solution for this challenge: [https://frolicking-muffin-29bbbd.netlify.app/](https://frolicking-muffin-29bbbd.netlify.app/)
 
 ## My process
 
